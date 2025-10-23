@@ -1,1 +1,1 @@
-# a-simple-raytracer
+raytracer
